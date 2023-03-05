@@ -1,0 +1,1 @@
+select first_name as worker_name from worker;

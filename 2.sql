@@ -1,0 +1,1 @@
+select instr(first_name,'A') from worker where first_name='Amitabh';

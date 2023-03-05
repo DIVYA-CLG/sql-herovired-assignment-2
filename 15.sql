@@ -1,0 +1,1 @@
+select a.cust_name as "Customer Name", a.city, b.name as "Salesman", b.commission from customer a inner join salesman b on a.salesman_id=b.salesman_id where b.commission>.12;

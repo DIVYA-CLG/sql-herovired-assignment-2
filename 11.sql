@@ -1,0 +1,1 @@
+ select *from worker where to_char(joining_date,'mon')='feb';
